@@ -1,1 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:02:59.708Z" agent="5.0 (Windows)" version="14.9.3" etag="aFeTa4patJvRAMph3X43" type="github"><diagram id="k9O_OS2iNa6wNnboMolM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-05T03:41:15.300Z" agent="5.0 (Windows)" etag="BkPeLKx5i_-tHSq-wL0S" version="14.9.3" type="github">
+  <diagram id="k9O_OS2iNa6wNnboMolM" name="Page-1">
+    <mxGraphModel dx="2431" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-1" target="DdkuNmiIes4P4FLvVrSl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-1" target="DdkuNmiIes4P4FLvVrSl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-1" target="DdkuNmiIes4P4FLvVrSl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-1" target="DdkuNmiIes4P4FLvVrSl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-1" value="Thred Cloud Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-2" target="DdkuNmiIes4P4FLvVrSl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-2" target="DdkuNmiIes4P4FLvVrSl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-2" target="DdkuNmiIes4P4FLvVrSl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-2" value="&lt;div&gt;TP - 43 User Onboarding&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-3" target="DdkuNmiIes4P4FLvVrSl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-3" value="Devices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-4" target="DdkuNmiIes4P4FLvVrSl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-4" target="DdkuNmiIes4P4FLvVrSl-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-4" target="DdkuNmiIes4P4FLvVrSl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-4" value="Knowledge Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-5" target="DdkuNmiIes4P4FLvVrSl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-5" target="DdkuNmiIes4P4FLvVrSl-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-5" target="DdkuNmiIes4P4FLvVrSl-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-5" target="DdkuNmiIes4P4FLvVrSl-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="150" />
+              <mxPoint x="1490" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-5" value="Templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-8" value="Allows User to Sign up to Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-10" value="Allows user to create an organisation and invite others to it" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-12" value="Protects an organisation&#39;s data" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-14" target="DdkuNmiIes4P4FLvVrSl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-14" value="Authentication and Authorisation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-17" target="DdkuNmiIes4P4FLvVrSl-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-17" target="DdkuNmiIes4P4FLvVrSl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-17" value="TP-46 Device Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-20" value="User can config device from the cloud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-21" value="User can add OPCUA/MQTT sources to the device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-27" target="DdkuNmiIes4P4FLvVrSl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-27" value="TP-82 Graph Tools and functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-30" value="Creating the graph UI with searching/viewing functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="330" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-32" target="DdkuNmiIes4P4FLvVrSl-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-32" value="TP-51 External Template Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-34" value="All the functionality for the user to create external templates e.g. Production Counter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-46" target="DdkuNmiIes4P4FLvVrSl-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-46" value="TP-52 Derived Template Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-48" target="DdkuNmiIes4P4FLvVrSl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-48" value="TP-50 Writing Expressions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-50" value="All the functionality for the user to create derived templates e.g. OEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-53" target="DdkuNmiIes4P4FLvVrSl-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-53" value="TP-47 Static Data Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-55" value="All the functionality for the user to upload and use static data e.g. Targets or Product List" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="330" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-57" target="DdkuNmiIes4P4FLvVrSl-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-57" value="TP-44 Knowledge Graph for Assets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-59" target="DdkuNmiIes4P4FLvVrSl-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-59" value="TP-45 Knowledge Graph for Datapoints" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-61" value="User can create their organisation structure as a graph" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdkuNmiIes4P4FLvVrSl-63" target="DdkuNmiIes4P4FLvVrSl-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-63" value="User can add datapoints to their organisation graph" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-70" value="Endpoints are auto generated from datapoints and user can consume their data" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-72" value="Angular, Auth0, Hasura, Timescale" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-73" value="Angular, Timescale,&amp;nbsp; Hasura" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-74" value="Vis.js, Hasura, Timescale, Angular" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="20" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdkuNmiIes4P4FLvVrSl-75" value="Vis.js, Hasura, Timescale, Angular" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="10" width="140" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
